@@ -22,7 +22,7 @@ export default function Home() {
           <SiLinkedin />Linkedin 
           <BsYoutube />Youtube 
           <FaFacebookF />Facebook
-        </div>
+        </div>
             </footer>
         </div>
     );
